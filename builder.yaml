@@ -1,0 +1,8 @@
+components:
+- name: app
+  role: web
+  platform: dotnet
+  platformVersion: 10.0
+  run:
+    port: 8080
+  path: /
